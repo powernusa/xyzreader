@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="max_width">1280dp</dimen>
+
+    <dimen name="article_detail_text_size">24sp</dimen>
+
+
+    <integer name="grid_column_count">4</integer>
+    <dimen name="expanded_text_size">32sp</dimen>
+</resources>

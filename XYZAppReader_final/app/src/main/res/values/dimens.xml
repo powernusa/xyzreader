@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="max_width">400dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="cardview_left_right_padding">16dp</dimen>
+    <dimen name="cardview_top_right_padding">16dp</dimen>
+
+    <dimen name="expanded_toolbar_height">80dp</dimen>
+    <dimen name="expanded_toolbar_title_margin_bottom">40dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
+    <dimen name ="fab_elevation">4dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--The Image size in smallest width 600dp is different from
+     regular size width-->
+    <dimen name="article_detail_app_bar_height">300dp</dimen>
+    <dimen name="article_detail_image_view_height">240dp</dimen>
+
+    <integer name="grid_column_count">2</integer>
+
+    <dimen name="about_activity_margin_left">50dp</dimen>
+    <dimen name="about_activity_margin_right">50dp</dimen>
+
+    <dimen name="article_detail_text_size">14sp</dimen>
+    <dimen name="programmer_text_size">28sp</dimen>
+    <dimen name="expanded_text_size">20sp</dimen>
+</resources>

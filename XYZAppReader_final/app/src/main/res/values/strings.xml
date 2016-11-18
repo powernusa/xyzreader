@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PowerXYZReader</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="info_string">This is a mock up project from Udacity. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis feugiat dui. Nunc mollis ipsum vel magna dictum, non laoreet nisl mattis. Vestibulum tortor ligula, ullamcorper non dapibus luctus, feugiat quis urna. Nulla a interdum justo, euismod aliquam dui. Aliquam nec consequat sapien. Curabitur malesuada odio a faucibus finibus. Suspendisse interdum justo ut justo tempor, porttitor pellentesque risus blandit. Vestibulum sollicitudin mi in lectus mattis semper. Ut vitae congue augue. Aliquam id imperdiet elit, eu accumsan dui. In interdum dignissim mauris sed maximus. </string>
+    <string name="action_share">Click to share</string>
+    <string name="about_activity_app_title">Reader App</string>
+    <string name="about_activity_modified_by">modified by</string>
+    <string name="about_andy">Andy</string>
+
+</resources>
