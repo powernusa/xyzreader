@@ -1,6 +1,6 @@
 # xyzreader
 
-Make Your App Material is a project in Udacity's Android Developer Nanodegree. 
+This project involves making an app using a material design.
 
 Transformed the user experience of a news reading app using Material Design principles. This includes consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces.
 
